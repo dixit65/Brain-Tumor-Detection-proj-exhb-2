@@ -77,5 +77,5 @@ The results for Brain Tumor Detection are
 
 ## 🚀 About Me
 Student at VIT Bhopal University Majoring in Computer Science. an avid learner who is interested to learn everything about the application of AI in real-time.
-## 😇 Motivation
+
 
